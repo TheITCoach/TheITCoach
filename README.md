@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there is a IT Lecturer with 9 years of experience in different Universities of Pakistan 
+expert in Data Science, 
+Data Analytics, 
+Data Mining,
+OOP,
+Python,
+C++,
+Data Structures and Algorithms,
+Operating Systems,
+Management Information Systems
+
 
 <!--
 **TheITCoach/TheITCoach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
